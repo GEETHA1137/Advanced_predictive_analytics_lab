@@ -1,0 +1,121 @@
+{
+  "total": 14640,
+  "train": 11712,
+  "test": 2928,
+  "neg": 8421,
+  "neu": 3439,
+  "pos": 2780,
+  "dummy_macro": 0.2434,
+  "vader_macro": 0.6925,
+  "best_name": "MultinomialNB",
+  "best_macro": 0.8401,
+  "best_weighted": 0.8662,
+  "best_accuracy": 0.8695,
+  "cv_rows": [
+    {
+      "model": "MultinomialNB",
+      "macro_f1_mean": 0.8538545162398956,
+      "macro_f1_sd": 0.007619190752008752,
+      "weighted_f1_mean": 0.8781909566868169,
+      "fit_time_mean": 0.8933747291564942
+    },
+    {
+      "model": "LogisticRegression",
+      "macro_f1_mean": 0.8522423870757965,
+      "macro_f1_sd": 0.007615256546794793,
+      "weighted_f1_mean": 0.8766869771456565,
+      "fit_time_mean": 0.9169182300567627
+    },
+    {
+      "model": "LinearSVC",
+      "macro_f1_mean": 0.8433647703620079,
+      "macro_f1_sd": 0.007973371206934421,
+      "weighted_f1_mean": 0.8690108334263572,
+      "fit_time_mean": 0.2031888484954834
+    },
+    {
+      "model": "VADER",
+      "macro_f1_mean": 0.6924945747785154,
+      "macro_f1_sd": 0.0,
+      "weighted_f1_mean": 0.7585530868654052,
+      "fit_time_mean": 0.0
+    },
+    {
+      "model": "DummyClassifier",
+      "macro_f1_mean": 0.2434229546111593,
+      "macro_f1_sd": 0.0,
+      "weighted_f1_mean": 0.42000436021023796,
+      "fit_time_mean": 0.001
+    }
+  ],
+  "class_report": {
+    "negative": {
+      "precision": 0.8648,
+      "recall": 0.9608,
+      "f1-score": 0.9103,
+      "support": 1684.0
+    },
+    "neutral": {
+      "precision": 0.8824,
+      "recall": 0.7631,
+      "f1-score": 0.8184,
+      "support": 688.0
+    },
+    "positive": {
+      "precision": 0.8723,
+      "recall": 0.7248,
+      "f1-score": 0.7917,
+      "support": 556.0
+    }
+  },
+  "entity_rows": [
+    {
+      "airline": "United",
+      "n": 740,
+      "neg_pct": 60.40540540540541,
+      "neu_pct": 22.702702702702705,
+      "pos_pct": 16.89189189189189,
+      "macro_f1": 0.8445823213527676
+    },
+    {
+      "airline": "US Airways",
+      "n": 302,
+      "neg_pct": 59.27152317880795,
+      "neu_pct": 23.509933774834437,
+      "pos_pct": 17.218543046357617,
+      "macro_f1": 0.8336058774736342
+    },
+    {
+      "airline": "Southwest",
+      "n": 466,
+      "neg_pct": 58.15450643776824,
+      "neu_pct": 21.244635193133046,
+      "pos_pct": 20.600858369098713,
+      "macro_f1": 0.8201592760486501
+    },
+    {
+      "airline": "Virgin America",
+      "n": 306,
+      "neg_pct": 57.18954248366013,
+      "neu_pct": 20.915032679738562,
+      "pos_pct": 21.895424836601308,
+      "macro_f1": 0.8198123091044328
+    },
+    {
+      "airline": "American",
+      "n": 610,
+      "neg_pct": 55.08196721311476,
+      "neu_pct": 24.75409836065574,
+      "pos_pct": 20.163934426229506,
+      "macro_f1": 0.8484866723057237
+    },
+    {
+      "airline": "Delta",
+      "n": 504,
+      "neg_pct": 54.761904761904766,
+      "neu_pct": 26.785714285714285,
+      "pos_pct": 18.452380952380953,
+      "macro_f1": 0.8570762450551269
+    }
+  ]
+}

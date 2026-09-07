@@ -1,0 +1,51 @@
+tweet_id,text,airline_sentiment,airline,prediction,correct
+570015152,United my experience was furious — 3 hours unacceptable time never,positive,United,negative,False
+570266714,American flying to Houston today gate change noticed got,positive,American,neutral,False
+570284943,Anyone boarding Southwest recently to Charlotte lately today,positive,Southwest,neutral,False
+570360395,Really efficient with Southwest on time superb experience took,neutral,Southwest,positive,False
+570260438,Just changing my American ticket to Minneapolis flight 263 last good,negative,American,neutral,False
+570094976,American missed flight 750 cold worst trip ever just,positive,American,negative,False
+570279516,@Delta noting for Orlando anything I should know last,positive,Delta,neutral,False
+570190257,So terrible with US Airways flight to Orlando ignored again okay just,neutral,US Airways,negative,False
+570170788,So unacceptable with Southwest flight to San Francisco refund again just,positive,Southwest,negative,False
+570119229,Delta my experience was overbooked — 4 hours stranded back,neutral,Delta,negative,False
+570275246,Just noting my Delta ticket to Miami flight 156 back today,positive,Delta,neutral,False
+570202655,@US Airways flight 326 to Chicago was unacceptable and overbooked took first,positive,US Airways,negative,False
+570304731,@US Airways choosing seat selection for flight 741 got,negative,US Airways,neutral,False
+570208216,US Airways my experience was disgusting — 8 hours rude always,neutral,US Airways,negative,False
+570000158,Flight 487 United to Philadelphia terrible no help at all always flight,neutral,United,negative,False
+570182380,Southwest frustrating flight 501 cold worst trip ever today good,neutral,Southwest,negative,False
+570134971,Never flying Delta again flight 679 was rude never,neutral,Delta,negative,False
+570201240,US Airways my experience was broken — 5 hours unacceptable next never,neutral,US Airways,negative,False
+570049902,Flight 497 United to Orlando missed no help at all fine,positive,United,negative,False
+570204275,US Airways luggage broken customer service broken very bad new,neutral,US Airways,negative,False
+570234184,United asking to Dallas today gate change noticed came back,negative,United,neutral,False
+570094954,American my experience was unacceptable — 4 hours missed just,neutral,American,negative,False
+570228349,So cancelled with Virgin America flight to Charlotte horrible again never last,neutral,Virgin America,negative,False
+570285415,Southwest flight 119 to Minneapolis checking right now never still,positive,Southwest,neutral,False
+570159604,So stranded with Southwest flight to New York broken again took,positive,Southwest,negative,False
+570250774,wondering on United to Houston for work again this week time fine,negative,United,neutral,False
+570066312,Flight 277 American to New York complaint no help at all first next,positive,American,negative,False
+570331766,@American happy response excellent trip to Orlando perfect came okay,negative,American,positive,False
+570345843,Really professional with Delta on time best experience today fine,neutral,Delta,positive,False
+570369728,Love Virgin America flight to Dallas outstanding as always flight good,neutral,Virgin America,positive,False
+570364062,Really professional with US Airways on time best experience went took,negative,US Airways,positive,False
+570351060,Really outstanding with Delta on time fantastic experience time,neutral,Delta,positive,False
+570150606,Southwest seat horrible crew disgusting service unacceptable good,positive,Southwest,negative,False
+570151775,@Southwest flight 375 to New York was stranded and ridiculous got,neutral,Southwest,negative,False
+570007586,@United flight 959 to Chicago was horrible and terrible went,neutral,United,negative,False
+570216899,Virgin America furious flight 495 unprofessional worst trip ever okay came,positive,Virgin America,negative,False
+570137525,Delta luggage waiting customer service delayed very bad today,neutral,Delta,negative,False
+570218406,Flight 520 Virgin America to Chicago worst no help at all flight today,neutral,Virgin America,negative,False
+570365947,Love US Airways flight to New York wonderful as always first okay,negative,US Airways,positive,False
+570248654,United flight 260 to Orlando changing right now came good,negative,United,neutral,False
+570107644,American my experience was complaint — 5 hours overbooked first got,neutral,American,negative,False
+570185710,US Airways luggage rude customer service nightmare very bad next,neutral,US Airways,negative,False
+570077952,American overbooked flight 868 ridiculous worst trip ever first,neutral,American,negative,False
+570101086,American disgusting flight 309 lost worst trip ever next just,positive,American,negative,False
+570211104,@Virgin America flight 586 to Orlando was terrible and refund took back,positive,Virgin America,negative,False
+570070353,Never flying American again flight 238 was cold still,neutral,American,negative,False
+570262373,American flight 969 to Dallas booked right now still fine,negative,American,neutral,False
+570135574,@Delta flight 594 to Minneapolis was refund and missed went came,neutral,Delta,negative,False
+570323029,United flight 841 to Atlanta was great and crew great today,neutral,United,positive,False
+570225251,So complaint with Virgin America flight to Portland refund again flight took,neutral,Virgin America,negative,False
