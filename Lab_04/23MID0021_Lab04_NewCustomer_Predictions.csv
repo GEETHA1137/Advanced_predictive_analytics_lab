@@ -1,0 +1,6 @@
+Gender,Ever_Married,Age,Graduated,Profession,Work_Experience,Spending_Score,Family_Size,Var_1,Predicted_Segment,P(A),P(B),P(C),P(D)
+Male,Yes,45,Yes,Engineer,10,High,4,Cat_6,C,0.0,0.0,0.9772,0.0228
+Female,No,28,Yes,Artist,3,Low,1,Cat_2,A,1.0,0.0,0.0,0.0
+Male,Yes,35,No,Healthcare,7,Average,3,Cat_4,B,0.0003,0.9896,0.0091,0.001
+Female,Yes,52,Yes,Lawyer,20,High,5,Cat_6,D,0.0,0.0,0.084,0.916
+Male,No,22,No,Marketing,1,Low,2,Cat_1,A,1.0,0.0,0.0,0.0
