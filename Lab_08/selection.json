@@ -1,0 +1,49 @@
+{
+  "selected_model": "ridge_trend",
+  "val_metrics": {
+    "median": {
+      "mae": 0.6963,
+      "rmse": 0.8656,
+      "r2": -0.114
+    },
+    "ridge_trend": {
+      "mae": 0.1888,
+      "rmse": 0.2405,
+      "r2": 0.914
+    },
+    "tree": {
+      "mae": 0.2763,
+      "rmse": 0.3521,
+      "r2": 0.8156
+    },
+    "forest": {
+      "mae": 0.2219,
+      "rmse": 0.2706,
+      "r2": 0.8911
+    }
+  },
+  "config_sha256": "6dbca35aeff14f79e1bce644765d85cfb1eb897b495ddc71526c71964839cb1e",
+  "features": [
+    "state",
+    "district",
+    "season",
+    "year"
+  ],
+  "target": "yield_t_ha",
+  "train_years": [
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015"
+  ],
+  "val_years": [
+    "2016",
+    "2017"
+  ],
+  "test_years": [
+    "2018",
+    "2019"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "task": "regression",
+  "crop": "Rice",
+  "yield_unit": "t/ha",
+  "data": {
+    "path": "C:\\Users\\I768951\\OneDrive - SAP SE\\SAP\\Exam\\data\\rice_canonical.csv",
+    "sha256_prefix": "84d0dc22ff103cd0"
+  },
+  "output": {
+    "dir": "C:\\Users\\I768951\\OneDrive - SAP SE\\SAP\\Exam\\outputs\\core"
+  },
+  "advanced": {
+    "n_rolling_origins": 3,
+    "bootstrap_resamples": 200
+  }
+}

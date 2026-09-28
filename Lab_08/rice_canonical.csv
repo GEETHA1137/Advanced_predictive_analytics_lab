@@ -1,0 +1,601 @@
+row_id,crop,state,district,season,year,yield_t_ha
+R00000,Rice,Punjab,Ludhiana,Kharif,2010,3.6988
+R00001,Rice,Punjab,Ludhiana,Kharif,2011,3.9095
+R00002,Rice,Punjab,Ludhiana,Kharif,2012,4.3077
+R00003,Rice,Punjab,Ludhiana,Kharif,2013,4.2561
+R00004,Rice,Punjab,Ludhiana,Kharif,2014,4.383
+R00005,Rice,Punjab,Ludhiana,Kharif,2015,4.2373
+R00006,Rice,Punjab,Ludhiana,Kharif,2016,4.7081
+R00007,Rice,Punjab,Ludhiana,Kharif,2017,4.7387
+R00008,Rice,Punjab,Ludhiana,Kharif,2018,4.6229
+R00009,Rice,Punjab,Ludhiana,Kharif,2019,4.9326
+R00010,Rice,Punjab,Ludhiana,Rabi,2010,4.0992
+R00011,Rice,Punjab,Ludhiana,Rabi,2011,3.8358
+R00012,Rice,Punjab,Ludhiana,Rabi,2012,4.1855
+R00013,Rice,Punjab,Ludhiana,Rabi,2013,3.9219
+R00014,Rice,Punjab,Ludhiana,Rabi,2014,4.4179
+R00015,Rice,Punjab,Ludhiana,Rabi,2015,4.2501
+R00016,Rice,Punjab,Ludhiana,Rabi,2016,4.2727
+R00017,Rice,Punjab,Ludhiana,Rabi,2017,4.2086
+R00018,Rice,Punjab,Ludhiana,Rabi,2018,4.7204
+R00019,Rice,Punjab,Ludhiana,Rabi,2019,4.445
+R00020,Rice,Punjab,Amritsar,Kharif,2010,3.7684
+R00021,Rice,Punjab,Amritsar,Kharif,2011,3.8417
+R00022,Rice,Punjab,Amritsar,Kharif,2012,4.109
+R00023,Rice,Punjab,Amritsar,Kharif,2013,4.1239
+R00024,Rice,Punjab,Amritsar,Kharif,2014,4.1903
+R00025,Rice,Punjab,Amritsar,Kharif,2015,4.2496
+R00026,Rice,Punjab,Amritsar,Kharif,2016,4.7152
+R00027,Rice,Punjab,Amritsar,Kharif,2017,4.1587
+R00028,Rice,Punjab,Amritsar,Kharif,2018,4.1883
+R00029,Rice,Punjab,Amritsar,Kharif,2019,4.1709
+R00030,Rice,Punjab,Amritsar,Rabi,2010,3.839
+R00031,Rice,Punjab,Amritsar,Rabi,2011,4.0172
+R00032,Rice,Punjab,Amritsar,Rabi,2012,3.7739
+R00033,Rice,Punjab,Amritsar,Rabi,2013,3.6546
+R00034,Rice,Punjab,Amritsar,Rabi,2014,3.7133
+R00035,Rice,Punjab,Amritsar,Rabi,2015,4.1223
+R00036,Rice,Punjab,Amritsar,Rabi,2016,4.1996
+R00037,Rice,Punjab,Amritsar,Rabi,2017,4.2066
+R00038,Rice,Punjab,Amritsar,Rabi,2018,3.9715
+R00039,Rice,Punjab,Amritsar,Rabi,2019,4.2419
+R00040,Rice,Punjab,Patiala,Kharif,2010,4.2931
+R00041,Rice,Punjab,Patiala,Kharif,2011,4.3726
+R00042,Rice,Punjab,Patiala,Kharif,2012,4.5842
+R00043,Rice,Punjab,Patiala,Kharif,2013,4.4838
+R00044,Rice,Punjab,Patiala,Kharif,2014,4.648
+R00045,Rice,Punjab,Patiala,Kharif,2015,4.5563
+R00046,Rice,Punjab,Patiala,Kharif,2016,4.6645
+R00047,Rice,Punjab,Patiala,Kharif,2017,4.8016
+R00048,Rice,Punjab,Patiala,Kharif,2018,4.3554
+R00049,Rice,Punjab,Patiala,Kharif,2019,4.6834
+R00050,Rice,Punjab,Jalandhar,Kharif,2010,4.194
+R00051,Rice,Punjab,Jalandhar,Kharif,2011,4.2086
+R00052,Rice,Punjab,Jalandhar,Kharif,2012,4.3509
+R00053,Rice,Punjab,Jalandhar,Kharif,2013,4.8307
+R00054,Rice,Punjab,Jalandhar,Kharif,2014,4.3191
+R00055,Rice,Punjab,Jalandhar,Kharif,2015,4.8143
+R00056,Rice,Punjab,Jalandhar,Kharif,2016,4.233
+R00057,Rice,Punjab,Jalandhar,Kharif,2017,4.6116
+R00058,Rice,Punjab,Jalandhar,Kharif,2018,4.786
+R00059,Rice,Punjab,Jalandhar,Kharif,2019,4.9426
+R00060,Rice,Haryana,Karnal,Kharif,2010,4.0624
+R00061,Rice,Haryana,Karnal,Kharif,2011,3.8556
+R00062,Rice,Haryana,Karnal,Kharif,2012,3.6403
+R00063,Rice,Haryana,Karnal,Kharif,2013,3.7195
+R00064,Rice,Haryana,Karnal,Kharif,2014,3.8158
+R00065,Rice,Haryana,Karnal,Kharif,2015,4.2008
+R00066,Rice,Haryana,Karnal,Kharif,2016,4.1607
+R00067,Rice,Haryana,Karnal,Kharif,2017,4.3372
+R00068,Rice,Haryana,Karnal,Kharif,2018,4.1139
+R00069,Rice,Haryana,Karnal,Kharif,2019,4.2995
+R00070,Rice,Haryana,Karnal,Rabi,2010,3.8266
+R00071,Rice,Haryana,Karnal,Rabi,2011,3.6472
+R00072,Rice,Haryana,Karnal,Rabi,2012,3.8761
+R00073,Rice,Haryana,Karnal,Rabi,2013,3.6526
+R00074,Rice,Haryana,Karnal,Rabi,2014,3.7693
+R00075,Rice,Haryana,Karnal,Rabi,2015,3.8099
+R00076,Rice,Haryana,Karnal,Rabi,2016,3.6595
+R00077,Rice,Haryana,Karnal,Rabi,2017,4.1083
+R00078,Rice,Haryana,Karnal,Rabi,2018,3.9238
+R00079,Rice,Haryana,Karnal,Rabi,2019,4.0845
+R00080,Rice,Haryana,Kaithal,Kharif,2010,3.9899
+R00081,Rice,Haryana,Kaithal,Kharif,2011,4.0267
+R00082,Rice,Haryana,Kaithal,Kharif,2012,4.1242
+R00083,Rice,Haryana,Kaithal,Kharif,2013,3.9859
+R00084,Rice,Haryana,Kaithal,Kharif,2014,3.9529
+R00085,Rice,Haryana,Kaithal,Kharif,2015,4.0804
+R00086,Rice,Haryana,Kaithal,Kharif,2016,3.7396
+R00087,Rice,Haryana,Kaithal,Kharif,2017,3.8422
+R00088,Rice,Haryana,Kaithal,Kharif,2018,3.9171
+R00089,Rice,Haryana,Kaithal,Kharif,2019,4.0402
+R00090,Rice,Haryana,Kaithal,Rabi,2010,3.7905
+R00091,Rice,Haryana,Kaithal,Rabi,2011,3.5222
+R00092,Rice,Haryana,Kaithal,Rabi,2012,3.6938
+R00093,Rice,Haryana,Kaithal,Rabi,2013,4.1414
+R00094,Rice,Haryana,Kaithal,Rabi,2014,3.789
+R00095,Rice,Haryana,Kaithal,Rabi,2015,4.0965
+R00096,Rice,Haryana,Kaithal,Rabi,2016,3.7405
+R00097,Rice,Haryana,Kaithal,Rabi,2017,3.9602
+R00098,Rice,Haryana,Kaithal,Rabi,2018,3.8265
+R00099,Rice,Haryana,Kaithal,Rabi,2019,4.0182
+R00100,Rice,Haryana,Ambala,Kharif,2010,3.825
+R00101,Rice,Haryana,Ambala,Kharif,2011,3.2537
+R00102,Rice,Haryana,Ambala,Kharif,2012,3.8175
+R00103,Rice,Haryana,Ambala,Kharif,2013,3.8153
+R00104,Rice,Haryana,Ambala,Kharif,2014,3.6607
+R00105,Rice,Haryana,Ambala,Kharif,2015,3.5012
+R00106,Rice,Haryana,Ambala,Kharif,2016,3.9106
+R00107,Rice,Haryana,Ambala,Kharif,2017,3.8112
+R00108,Rice,Haryana,Ambala,Kharif,2018,4.0391
+R00109,Rice,Haryana,Ambala,Kharif,2019,4.0335
+R00110,Rice,Haryana,Rohtak,Kharif,2010,3.9827
+R00111,Rice,Haryana,Rohtak,Kharif,2011,3.5858
+R00112,Rice,Haryana,Rohtak,Kharif,2012,3.4426
+R00113,Rice,Haryana,Rohtak,Kharif,2013,3.7763
+R00114,Rice,Haryana,Rohtak,Kharif,2014,3.8311
+R00115,Rice,Haryana,Rohtak,Kharif,2015,4.1495
+R00116,Rice,Haryana,Rohtak,Kharif,2016,4.0687
+R00117,Rice,Haryana,Rohtak,Kharif,2017,3.9989
+R00118,Rice,Haryana,Rohtak,Kharif,2018,4.3095
+R00119,Rice,Haryana,Rohtak,Kharif,2019,3.718
+R00120,Rice,Uttar Pradesh,Meerut,Kharif,2010,2.5117
+R00121,Rice,Uttar Pradesh,Meerut,Kharif,2011,2.3459
+R00122,Rice,Uttar Pradesh,Meerut,Kharif,2012,2.0863
+R00123,Rice,Uttar Pradesh,Meerut,Kharif,2013,2.2355
+R00124,Rice,Uttar Pradesh,Meerut,Kharif,2014,2.5945
+R00125,Rice,Uttar Pradesh,Meerut,Kharif,2015,2.7604
+R00126,Rice,Uttar Pradesh,Meerut,Kharif,2016,3.0785
+R00127,Rice,Uttar Pradesh,Meerut,Kharif,2017,3.3386
+R00128,Rice,Uttar Pradesh,Meerut,Kharif,2018,2.7787
+R00129,Rice,Uttar Pradesh,Meerut,Kharif,2019,2.4818
+R00130,Rice,Uttar Pradesh,Meerut,Rabi,2010,1.6676
+R00131,Rice,Uttar Pradesh,Meerut,Rabi,2011,2.2835
+R00132,Rice,Uttar Pradesh,Meerut,Rabi,2012,2.0641
+R00133,Rice,Uttar Pradesh,Meerut,Rabi,2013,2.1996
+R00134,Rice,Uttar Pradesh,Meerut,Rabi,2014,2.1924
+R00135,Rice,Uttar Pradesh,Meerut,Rabi,2015,2.3455
+R00136,Rice,Uttar Pradesh,Meerut,Rabi,2016,2.6751
+R00137,Rice,Uttar Pradesh,Meerut,Rabi,2017,2.4969
+R00138,Rice,Uttar Pradesh,Meerut,Rabi,2018,2.4612
+R00139,Rice,Uttar Pradesh,Meerut,Rabi,2019,2.2907
+R00140,Rice,Uttar Pradesh,Lucknow,Kharif,2010,1.8942
+R00141,Rice,Uttar Pradesh,Lucknow,Kharif,2011,2.2194
+R00142,Rice,Uttar Pradesh,Lucknow,Kharif,2012,2.3632
+R00143,Rice,Uttar Pradesh,Lucknow,Kharif,2013,2.8405
+R00144,Rice,Uttar Pradesh,Lucknow,Kharif,2014,2.4874
+R00145,Rice,Uttar Pradesh,Lucknow,Kharif,2015,2.732
+R00146,Rice,Uttar Pradesh,Lucknow,Kharif,2016,2.4163
+R00147,Rice,Uttar Pradesh,Lucknow,Kharif,2017,2.2918
+R00148,Rice,Uttar Pradesh,Lucknow,Kharif,2018,2.3845
+R00149,Rice,Uttar Pradesh,Lucknow,Kharif,2019,2.4821
+R00150,Rice,Uttar Pradesh,Lucknow,Rabi,2010,2.627
+R00151,Rice,Uttar Pradesh,Lucknow,Rabi,2011,1.959
+R00152,Rice,Uttar Pradesh,Lucknow,Rabi,2012,2.3974
+R00153,Rice,Uttar Pradesh,Lucknow,Rabi,2013,2.0195
+R00154,Rice,Uttar Pradesh,Lucknow,Rabi,2014,2.4997
+R00155,Rice,Uttar Pradesh,Lucknow,Rabi,2015,2.4085
+R00156,Rice,Uttar Pradesh,Lucknow,Rabi,2016,2.3186
+R00157,Rice,Uttar Pradesh,Lucknow,Rabi,2017,2.3864
+R00158,Rice,Uttar Pradesh,Lucknow,Rabi,2018,2.279
+R00159,Rice,Uttar Pradesh,Lucknow,Rabi,2019,2.5832
+R00160,Rice,Uttar Pradesh,Varanasi,Kharif,2010,2.305
+R00161,Rice,Uttar Pradesh,Varanasi,Kharif,2011,2.1601
+R00162,Rice,Uttar Pradesh,Varanasi,Kharif,2012,2.1875
+R00163,Rice,Uttar Pradesh,Varanasi,Kharif,2013,2.5757
+R00164,Rice,Uttar Pradesh,Varanasi,Kharif,2014,2.9532
+R00165,Rice,Uttar Pradesh,Varanasi,Kharif,2015,2.6526
+R00166,Rice,Uttar Pradesh,Varanasi,Kharif,2016,2.6258
+R00167,Rice,Uttar Pradesh,Varanasi,Kharif,2017,2.7628
+R00168,Rice,Uttar Pradesh,Varanasi,Kharif,2018,3.0477
+R00169,Rice,Uttar Pradesh,Varanasi,Kharif,2019,2.8269
+R00170,Rice,Uttar Pradesh,Gorakhpur,Kharif,2010,2.0985
+R00171,Rice,Uttar Pradesh,Gorakhpur,Kharif,2011,2.5026
+R00172,Rice,Uttar Pradesh,Gorakhpur,Kharif,2012,2.38
+R00173,Rice,Uttar Pradesh,Gorakhpur,Kharif,2013,2.6857
+R00174,Rice,Uttar Pradesh,Gorakhpur,Kharif,2014,2.4011
+R00175,Rice,Uttar Pradesh,Gorakhpur,Kharif,2015,2.1033
+R00176,Rice,Uttar Pradesh,Gorakhpur,Kharif,2016,2.1088
+R00177,Rice,Uttar Pradesh,Gorakhpur,Kharif,2017,2.8734
+R00178,Rice,Uttar Pradesh,Gorakhpur,Kharif,2018,2.9308
+R00179,Rice,Uttar Pradesh,Gorakhpur,Kharif,2019,2.514
+R00180,Rice,West Bengal,Murshidabad,Kharif,2010,2.8701
+R00181,Rice,West Bengal,Murshidabad,Kharif,2011,2.656
+R00182,Rice,West Bengal,Murshidabad,Kharif,2012,2.7845
+R00183,Rice,West Bengal,Murshidabad,Kharif,2013,2.7815
+R00184,Rice,West Bengal,Murshidabad,Kharif,2014,2.9367
+R00185,Rice,West Bengal,Murshidabad,Kharif,2015,3.2285
+R00186,Rice,West Bengal,Murshidabad,Kharif,2016,2.9474
+R00187,Rice,West Bengal,Murshidabad,Kharif,2017,3.1152
+R00188,Rice,West Bengal,Murshidabad,Kharif,2018,2.5037
+R00189,Rice,West Bengal,Murshidabad,Kharif,2019,3.019
+R00190,Rice,West Bengal,Murshidabad,Rabi,2010,2.3333
+R00191,Rice,West Bengal,Murshidabad,Rabi,2011,2.2782
+R00192,Rice,West Bengal,Murshidabad,Rabi,2012,2.3949
+R00193,Rice,West Bengal,Murshidabad,Rabi,2013,2.5605
+R00194,Rice,West Bengal,Murshidabad,Rabi,2014,2.8955
+R00195,Rice,West Bengal,Murshidabad,Rabi,2015,2.3924
+R00196,Rice,West Bengal,Murshidabad,Rabi,2016,2.7531
+R00197,Rice,West Bengal,Murshidabad,Rabi,2017,2.6645
+R00198,Rice,West Bengal,Murshidabad,Rabi,2018,2.7371
+R00199,Rice,West Bengal,Murshidabad,Rabi,2019,3.0914
+R00200,Rice,West Bengal,Bardhaman,Kharif,2010,3.2507
+R00201,Rice,West Bengal,Bardhaman,Kharif,2011,3.4775
+R00202,Rice,West Bengal,Bardhaman,Kharif,2012,3.1544
+R00203,Rice,West Bengal,Bardhaman,Kharif,2013,3.0595
+R00204,Rice,West Bengal,Bardhaman,Kharif,2014,3.2078
+R00205,Rice,West Bengal,Bardhaman,Kharif,2015,3.3547
+R00206,Rice,West Bengal,Bardhaman,Kharif,2016,3.3739
+R00207,Rice,West Bengal,Bardhaman,Kharif,2017,3.1063
+R00208,Rice,West Bengal,Bardhaman,Kharif,2018,3.4232
+R00209,Rice,West Bengal,Bardhaman,Kharif,2019,3.4913
+R00210,Rice,West Bengal,Bardhaman,Rabi,2010,3.5457
+R00211,Rice,West Bengal,Bardhaman,Rabi,2011,3.427
+R00212,Rice,West Bengal,Bardhaman,Rabi,2012,2.8067
+R00213,Rice,West Bengal,Bardhaman,Rabi,2013,2.9775
+R00214,Rice,West Bengal,Bardhaman,Rabi,2014,2.7303
+R00215,Rice,West Bengal,Bardhaman,Rabi,2015,2.9747
+R00216,Rice,West Bengal,Bardhaman,Rabi,2016,3.2273
+R00217,Rice,West Bengal,Bardhaman,Rabi,2017,3.4759
+R00218,Rice,West Bengal,Bardhaman,Rabi,2018,3.0465
+R00219,Rice,West Bengal,Bardhaman,Rabi,2019,3.0995
+R00220,Rice,West Bengal,Hooghly,Kharif,2010,2.0411
+R00221,Rice,West Bengal,Hooghly,Kharif,2011,2.5524
+R00222,Rice,West Bengal,Hooghly,Kharif,2012,2.3715
+R00223,Rice,West Bengal,Hooghly,Kharif,2013,2.5344
+R00224,Rice,West Bengal,Hooghly,Kharif,2014,2.486
+R00225,Rice,West Bengal,Hooghly,Kharif,2015,2.7088
+R00226,Rice,West Bengal,Hooghly,Kharif,2016,2.3446
+R00227,Rice,West Bengal,Hooghly,Kharif,2017,2.4494
+R00228,Rice,West Bengal,Hooghly,Kharif,2018,3.3475
+R00229,Rice,West Bengal,Hooghly,Kharif,2019,2.5625
+R00230,Rice,West Bengal,Nadia,Kharif,2010,2.3399
+R00231,Rice,West Bengal,Nadia,Kharif,2011,3.079
+R00232,Rice,West Bengal,Nadia,Kharif,2012,3.3704
+R00233,Rice,West Bengal,Nadia,Kharif,2013,2.427
+R00234,Rice,West Bengal,Nadia,Kharif,2014,2.6548
+R00235,Rice,West Bengal,Nadia,Kharif,2015,2.8601
+R00236,Rice,West Bengal,Nadia,Kharif,2016,3.228
+R00237,Rice,West Bengal,Nadia,Kharif,2017,2.6113
+R00238,Rice,West Bengal,Nadia,Kharif,2018,2.8243
+R00239,Rice,West Bengal,Nadia,Kharif,2019,3.1047
+R00240,Rice,Andhra Pradesh,Krishna,Kharif,2010,3.2385
+R00241,Rice,Andhra Pradesh,Krishna,Kharif,2011,3.2717
+R00242,Rice,Andhra Pradesh,Krishna,Kharif,2012,3.4314
+R00243,Rice,Andhra Pradesh,Krishna,Kharif,2013,3.2824
+R00244,Rice,Andhra Pradesh,Krishna,Kharif,2014,3.5688
+R00245,Rice,Andhra Pradesh,Krishna,Kharif,2015,3.7387
+R00246,Rice,Andhra Pradesh,Krishna,Kharif,2016,3.573
+R00247,Rice,Andhra Pradesh,Krishna,Kharif,2017,3.6601
+R00248,Rice,Andhra Pradesh,Krishna,Kharif,2018,3.6284
+R00249,Rice,Andhra Pradesh,Krishna,Kharif,2019,3.6557
+R00250,Rice,Andhra Pradesh,Krishna,Rabi,2010,2.9425
+R00251,Rice,Andhra Pradesh,Krishna,Rabi,2011,3.2316
+R00252,Rice,Andhra Pradesh,Krishna,Rabi,2012,3.1723
+R00253,Rice,Andhra Pradesh,Krishna,Rabi,2013,3.738
+R00254,Rice,Andhra Pradesh,Krishna,Rabi,2014,3.6533
+R00255,Rice,Andhra Pradesh,Krishna,Rabi,2015,3.4083
+R00256,Rice,Andhra Pradesh,Krishna,Rabi,2016,3.1725
+R00257,Rice,Andhra Pradesh,Krishna,Rabi,2017,3.1287
+R00258,Rice,Andhra Pradesh,Krishna,Rabi,2018,3.7215
+R00259,Rice,Andhra Pradesh,Krishna,Rabi,2019,3.5387
+R00260,Rice,Andhra Pradesh,Guntur,Kharif,2010,3.2325
+R00261,Rice,Andhra Pradesh,Guntur,Kharif,2011,2.7385
+R00262,Rice,Andhra Pradesh,Guntur,Kharif,2012,3.4198
+R00263,Rice,Andhra Pradesh,Guntur,Kharif,2013,3.3463
+R00264,Rice,Andhra Pradesh,Guntur,Kharif,2014,3.0107
+R00265,Rice,Andhra Pradesh,Guntur,Kharif,2015,3.2041
+R00266,Rice,Andhra Pradesh,Guntur,Kharif,2016,3.4205
+R00267,Rice,Andhra Pradesh,Guntur,Kharif,2017,3.4098
+R00268,Rice,Andhra Pradesh,Guntur,Kharif,2018,3.3671
+R00269,Rice,Andhra Pradesh,Guntur,Kharif,2019,3.4524
+R00270,Rice,Andhra Pradesh,Guntur,Rabi,2010,2.8768
+R00271,Rice,Andhra Pradesh,Guntur,Rabi,2011,3.0139
+R00272,Rice,Andhra Pradesh,Guntur,Rabi,2012,3.3704
+R00273,Rice,Andhra Pradesh,Guntur,Rabi,2013,2.4412
+R00274,Rice,Andhra Pradesh,Guntur,Rabi,2014,3.0404
+R00275,Rice,Andhra Pradesh,Guntur,Rabi,2015,3.1796
+R00276,Rice,Andhra Pradesh,Guntur,Rabi,2016,3.2483
+R00277,Rice,Andhra Pradesh,Guntur,Rabi,2017,3.128
+R00278,Rice,Andhra Pradesh,Guntur,Rabi,2018,2.8356
+R00279,Rice,Andhra Pradesh,Guntur,Rabi,2019,3.376
+R00280,Rice,Andhra Pradesh,East Godavari,Kharif,2010,3.5851
+R00281,Rice,Andhra Pradesh,East Godavari,Kharif,2011,2.8424
+R00282,Rice,Andhra Pradesh,East Godavari,Kharif,2012,3.4579
+R00283,Rice,Andhra Pradesh,East Godavari,Kharif,2013,3.2117
+R00284,Rice,Andhra Pradesh,East Godavari,Kharif,2014,3.3158
+R00285,Rice,Andhra Pradesh,East Godavari,Kharif,2015,3.1179
+R00286,Rice,Andhra Pradesh,East Godavari,Kharif,2016,3.3303
+R00287,Rice,Andhra Pradesh,East Godavari,Kharif,2017,3.7626
+R00288,Rice,Andhra Pradesh,East Godavari,Kharif,2018,3.6304
+R00289,Rice,Andhra Pradesh,East Godavari,Kharif,2019,3.9463
+R00290,Rice,Andhra Pradesh,West Godavari,Kharif,2010,3.1801
+R00291,Rice,Andhra Pradesh,West Godavari,Kharif,2011,3.0429
+R00292,Rice,Andhra Pradesh,West Godavari,Kharif,2012,3.3961
+R00293,Rice,Andhra Pradesh,West Godavari,Kharif,2013,3.1229
+R00294,Rice,Andhra Pradesh,West Godavari,Kharif,2014,3.2562
+R00295,Rice,Andhra Pradesh,West Godavari,Kharif,2015,3.0263
+R00296,Rice,Andhra Pradesh,West Godavari,Kharif,2016,3.1535
+R00297,Rice,Andhra Pradesh,West Godavari,Kharif,2017,3.0101
+R00298,Rice,Andhra Pradesh,West Godavari,Kharif,2018,3.455
+R00299,Rice,Andhra Pradesh,West Godavari,Kharif,2019,2.9747
+R00300,Rice,Tamil Nadu,Thanjavur,Kharif,2010,3.6091
+R00301,Rice,Tamil Nadu,Thanjavur,Kharif,2011,3.3795
+R00302,Rice,Tamil Nadu,Thanjavur,Kharif,2012,2.8588
+R00303,Rice,Tamil Nadu,Thanjavur,Kharif,2013,3.252
+R00304,Rice,Tamil Nadu,Thanjavur,Kharif,2014,3.0188
+R00305,Rice,Tamil Nadu,Thanjavur,Kharif,2015,3.2077
+R00306,Rice,Tamil Nadu,Thanjavur,Kharif,2016,3.7268
+R00307,Rice,Tamil Nadu,Thanjavur,Kharif,2017,3.5491
+R00308,Rice,Tamil Nadu,Thanjavur,Kharif,2018,3.2604
+R00309,Rice,Tamil Nadu,Thanjavur,Kharif,2019,3.2168
+R00310,Rice,Tamil Nadu,Thanjavur,Rabi,2010,3.0
+R00311,Rice,Tamil Nadu,Thanjavur,Rabi,2011,2.7321
+R00312,Rice,Tamil Nadu,Thanjavur,Rabi,2012,2.895
+R00313,Rice,Tamil Nadu,Thanjavur,Rabi,2013,3.163
+R00314,Rice,Tamil Nadu,Thanjavur,Rabi,2014,3.3974
+R00315,Rice,Tamil Nadu,Thanjavur,Rabi,2015,3.2982
+R00316,Rice,Tamil Nadu,Thanjavur,Rabi,2016,2.6342
+R00317,Rice,Tamil Nadu,Thanjavur,Rabi,2017,3.2892
+R00318,Rice,Tamil Nadu,Thanjavur,Rabi,2018,3.2654
+R00319,Rice,Tamil Nadu,Thanjavur,Rabi,2019,3.3795
+R00320,Rice,Tamil Nadu,Tiruvarur,Kharif,2010,3.3459
+R00321,Rice,Tamil Nadu,Tiruvarur,Kharif,2011,2.4949
+R00322,Rice,Tamil Nadu,Tiruvarur,Kharif,2012,2.8802
+R00323,Rice,Tamil Nadu,Tiruvarur,Kharif,2013,3.1959
+R00324,Rice,Tamil Nadu,Tiruvarur,Kharif,2014,2.7065
+R00325,Rice,Tamil Nadu,Tiruvarur,Kharif,2015,3.4723
+R00326,Rice,Tamil Nadu,Tiruvarur,Kharif,2016,3.2385
+R00327,Rice,Tamil Nadu,Tiruvarur,Kharif,2017,3.3852
+R00328,Rice,Tamil Nadu,Tiruvarur,Kharif,2018,3.077
+R00329,Rice,Tamil Nadu,Tiruvarur,Kharif,2019,3.4414
+R00330,Rice,Tamil Nadu,Tiruvarur,Rabi,2010,3.0345
+R00331,Rice,Tamil Nadu,Tiruvarur,Rabi,2011,2.8659
+R00332,Rice,Tamil Nadu,Tiruvarur,Rabi,2012,2.8983
+R00333,Rice,Tamil Nadu,Tiruvarur,Rabi,2013,2.9389
+R00334,Rice,Tamil Nadu,Tiruvarur,Rabi,2014,2.6989
+R00335,Rice,Tamil Nadu,Tiruvarur,Rabi,2015,2.9026
+R00336,Rice,Tamil Nadu,Tiruvarur,Rabi,2016,2.9335
+R00337,Rice,Tamil Nadu,Tiruvarur,Rabi,2017,3.0941
+R00338,Rice,Tamil Nadu,Tiruvarur,Rabi,2018,3.274
+R00339,Rice,Tamil Nadu,Tiruvarur,Rabi,2019,2.812
+R00340,Rice,Tamil Nadu,Nagapattinam,Kharif,2010,3.2277
+R00341,Rice,Tamil Nadu,Nagapattinam,Kharif,2011,3.6452
+R00342,Rice,Tamil Nadu,Nagapattinam,Kharif,2012,3.1432
+R00343,Rice,Tamil Nadu,Nagapattinam,Kharif,2013,3.1563
+R00344,Rice,Tamil Nadu,Nagapattinam,Kharif,2014,3.4342
+R00345,Rice,Tamil Nadu,Nagapattinam,Kharif,2015,3.6203
+R00346,Rice,Tamil Nadu,Nagapattinam,Kharif,2016,3.4524
+R00347,Rice,Tamil Nadu,Nagapattinam,Kharif,2017,3.8006
+R00348,Rice,Tamil Nadu,Nagapattinam,Kharif,2018,3.7193
+R00349,Rice,Tamil Nadu,Nagapattinam,Kharif,2019,3.7477
+R00350,Rice,Tamil Nadu,Pudukottai,Kharif,2010,3.2982
+R00351,Rice,Tamil Nadu,Pudukottai,Kharif,2011,3.7558
+R00352,Rice,Tamil Nadu,Pudukottai,Kharif,2012,3.18
+R00353,Rice,Tamil Nadu,Pudukottai,Kharif,2013,2.7803
+R00354,Rice,Tamil Nadu,Pudukottai,Kharif,2014,3.6782
+R00355,Rice,Tamil Nadu,Pudukottai,Kharif,2015,3.2153
+R00356,Rice,Tamil Nadu,Pudukottai,Kharif,2016,3.3831
+R00357,Rice,Tamil Nadu,Pudukottai,Kharif,2017,3.7035
+R00358,Rice,Tamil Nadu,Pudukottai,Kharif,2018,3.0366
+R00359,Rice,Tamil Nadu,Pudukottai,Kharif,2019,3.1528
+R00360,Rice,Bihar,Patna,Kharif,2010,1.714
+R00361,Rice,Bihar,Patna,Kharif,2011,1.3467
+R00362,Rice,Bihar,Patna,Kharif,2012,1.1693
+R00363,Rice,Bihar,Patna,Kharif,2013,1.7748
+R00364,Rice,Bihar,Patna,Kharif,2014,1.6865
+R00365,Rice,Bihar,Patna,Kharif,2015,1.948
+R00366,Rice,Bihar,Patna,Kharif,2016,2.0442
+R00367,Rice,Bihar,Patna,Kharif,2017,1.9469
+R00368,Rice,Bihar,Patna,Kharif,2018,2.1342
+R00369,Rice,Bihar,Patna,Kharif,2019,2.0447
+R00370,Rice,Bihar,Patna,Rabi,2010,1.5949
+R00371,Rice,Bihar,Patna,Rabi,2011,1.3366
+R00372,Rice,Bihar,Patna,Rabi,2012,1.5006
+R00373,Rice,Bihar,Patna,Rabi,2013,1.6289
+R00374,Rice,Bihar,Patna,Rabi,2014,1.8166
+R00375,Rice,Bihar,Patna,Rabi,2015,1.5632
+R00376,Rice,Bihar,Patna,Rabi,2016,1.8208
+R00377,Rice,Bihar,Patna,Rabi,2017,1.6699
+R00378,Rice,Bihar,Patna,Rabi,2018,1.7435
+R00379,Rice,Bihar,Patna,Rabi,2019,2.0088
+R00380,Rice,Bihar,Gaya,Kharif,2010,1.347
+R00381,Rice,Bihar,Gaya,Kharif,2011,1.5521
+R00382,Rice,Bihar,Gaya,Kharif,2012,1.5456
+R00383,Rice,Bihar,Gaya,Kharif,2013,1.3792
+R00384,Rice,Bihar,Gaya,Kharif,2014,1.8145
+R00385,Rice,Bihar,Gaya,Kharif,2015,2.1952
+R00386,Rice,Bihar,Gaya,Kharif,2016,1.9849
+R00387,Rice,Bihar,Gaya,Kharif,2017,2.1388
+R00388,Rice,Bihar,Gaya,Kharif,2018,2.3907
+R00389,Rice,Bihar,Gaya,Kharif,2019,2.4859
+R00390,Rice,Bihar,Gaya,Rabi,2010,1.6287
+R00391,Rice,Bihar,Gaya,Rabi,2011,2.0082
+R00392,Rice,Bihar,Gaya,Rabi,2012,1.7434
+R00393,Rice,Bihar,Gaya,Rabi,2013,1.5583
+R00394,Rice,Bihar,Gaya,Rabi,2014,1.6546
+R00395,Rice,Bihar,Gaya,Rabi,2015,1.48
+R00396,Rice,Bihar,Gaya,Rabi,2016,1.6601
+R00397,Rice,Bihar,Gaya,Rabi,2017,1.8254
+R00398,Rice,Bihar,Gaya,Rabi,2018,2.1422
+R00399,Rice,Bihar,Gaya,Rabi,2019,2.4003
+R00400,Rice,Bihar,Muzaffarpur,Kharif,2010,1.765
+R00401,Rice,Bihar,Muzaffarpur,Kharif,2011,2.229
+R00402,Rice,Bihar,Muzaffarpur,Kharif,2012,1.923
+R00403,Rice,Bihar,Muzaffarpur,Kharif,2013,2.3246
+R00404,Rice,Bihar,Muzaffarpur,Kharif,2014,2.2173
+R00405,Rice,Bihar,Muzaffarpur,Kharif,2015,1.8473
+R00406,Rice,Bihar,Muzaffarpur,Kharif,2016,2.5475
+R00407,Rice,Bihar,Muzaffarpur,Kharif,2017,2.2175
+R00408,Rice,Bihar,Muzaffarpur,Kharif,2018,2.2726
+R00409,Rice,Bihar,Muzaffarpur,Kharif,2019,2.182
+R00410,Rice,Bihar,Bhagalpur,Kharif,2010,1.9583
+R00411,Rice,Bihar,Bhagalpur,Kharif,2011,2.256
+R00412,Rice,Bihar,Bhagalpur,Kharif,2012,2.1459
+R00413,Rice,Bihar,Bhagalpur,Kharif,2013,2.3082
+R00414,Rice,Bihar,Bhagalpur,Kharif,2014,2.3542
+R00415,Rice,Bihar,Bhagalpur,Kharif,2015,2.6223
+R00416,Rice,Bihar,Bhagalpur,Kharif,2016,2.2611
+R00417,Rice,Bihar,Bhagalpur,Kharif,2017,2.0269
+R00418,Rice,Bihar,Bhagalpur,Kharif,2018,2.6755
+R00419,Rice,Bihar,Bhagalpur,Kharif,2019,2.3778
+R00420,Rice,Odisha,Cuttack,Kharif,2010,2.6135
+R00421,Rice,Odisha,Cuttack,Kharif,2011,2.6757
+R00422,Rice,Odisha,Cuttack,Kharif,2012,2.2259
+R00423,Rice,Odisha,Cuttack,Kharif,2013,2.2797
+R00424,Rice,Odisha,Cuttack,Kharif,2014,2.5315
+R00425,Rice,Odisha,Cuttack,Kharif,2015,2.1023
+R00426,Rice,Odisha,Cuttack,Kharif,2016,2.4171
+R00427,Rice,Odisha,Cuttack,Kharif,2017,2.363
+R00428,Rice,Odisha,Cuttack,Kharif,2018,2.4765
+R00429,Rice,Odisha,Cuttack,Kharif,2019,2.2332
+R00430,Rice,Odisha,Cuttack,Rabi,2010,1.5837
+R00431,Rice,Odisha,Cuttack,Rabi,2011,1.4997
+R00432,Rice,Odisha,Cuttack,Rabi,2012,1.761
+R00433,Rice,Odisha,Cuttack,Rabi,2013,1.9511
+R00434,Rice,Odisha,Cuttack,Rabi,2014,2.0228
+R00435,Rice,Odisha,Cuttack,Rabi,2015,2.5901
+R00436,Rice,Odisha,Cuttack,Rabi,2016,2.4226
+R00437,Rice,Odisha,Cuttack,Rabi,2017,1.9583
+R00438,Rice,Odisha,Cuttack,Rabi,2018,2.3047
+R00439,Rice,Odisha,Cuttack,Rabi,2019,2.1555
+R00440,Rice,Odisha,Puri,Kharif,2010,1.9161
+R00441,Rice,Odisha,Puri,Kharif,2011,2.0608
+R00442,Rice,Odisha,Puri,Kharif,2012,2.1969
+R00443,Rice,Odisha,Puri,Kharif,2013,1.9989
+R00444,Rice,Odisha,Puri,Kharif,2014,2.3677
+R00445,Rice,Odisha,Puri,Kharif,2015,1.8703
+R00446,Rice,Odisha,Puri,Kharif,2016,2.1779
+R00447,Rice,Odisha,Puri,Kharif,2017,2.8318
+R00448,Rice,Odisha,Puri,Kharif,2018,2.2939
+R00449,Rice,Odisha,Puri,Kharif,2019,2.6163
+R00450,Rice,Odisha,Puri,Rabi,2010,1.8263
+R00451,Rice,Odisha,Puri,Rabi,2011,1.9757
+R00452,Rice,Odisha,Puri,Rabi,2012,1.8547
+R00453,Rice,Odisha,Puri,Rabi,2013,1.8594
+R00454,Rice,Odisha,Puri,Rabi,2014,1.7453
+R00455,Rice,Odisha,Puri,Rabi,2015,2.0676
+R00456,Rice,Odisha,Puri,Rabi,2016,1.792
+R00457,Rice,Odisha,Puri,Rabi,2017,2.1881
+R00458,Rice,Odisha,Puri,Rabi,2018,2.3208
+R00459,Rice,Odisha,Puri,Rabi,2019,2.1803
+R00460,Rice,Odisha,Khurda,Kharif,2010,1.8025
+R00461,Rice,Odisha,Khurda,Kharif,2011,2.0121
+R00462,Rice,Odisha,Khurda,Kharif,2012,1.8611
+R00463,Rice,Odisha,Khurda,Kharif,2013,2.1917
+R00464,Rice,Odisha,Khurda,Kharif,2014,1.5596
+R00465,Rice,Odisha,Khurda,Kharif,2015,1.9506
+R00466,Rice,Odisha,Khurda,Kharif,2016,1.5854
+R00467,Rice,Odisha,Khurda,Kharif,2017,1.7363
+R00468,Rice,Odisha,Khurda,Kharif,2018,2.4545
+R00469,Rice,Odisha,Khurda,Kharif,2019,2.374
+R00470,Rice,Odisha,Balasore,Kharif,2010,1.8041
+R00471,Rice,Odisha,Balasore,Kharif,2011,1.6481
+R00472,Rice,Odisha,Balasore,Kharif,2012,1.3292
+R00473,Rice,Odisha,Balasore,Kharif,2013,1.9423
+R00474,Rice,Odisha,Balasore,Kharif,2014,2.6856
+R00475,Rice,Odisha,Balasore,Kharif,2015,2.2411
+R00476,Rice,Odisha,Balasore,Kharif,2016,2.0344
+R00477,Rice,Odisha,Balasore,Kharif,2017,2.3123
+R00478,Rice,Odisha,Balasore,Kharif,2018,1.8581
+R00479,Rice,Odisha,Balasore,Kharif,2019,2.1934
+R00480,Rice,Karnataka,Mandya,Kharif,2010,2.6823
+R00481,Rice,Karnataka,Mandya,Kharif,2011,2.3867
+R00482,Rice,Karnataka,Mandya,Kharif,2012,2.7974
+R00483,Rice,Karnataka,Mandya,Kharif,2013,3.0028
+R00484,Rice,Karnataka,Mandya,Kharif,2014,2.409
+R00485,Rice,Karnataka,Mandya,Kharif,2015,2.4588
+R00486,Rice,Karnataka,Mandya,Kharif,2016,3.0225
+R00487,Rice,Karnataka,Mandya,Kharif,2017,2.686
+R00488,Rice,Karnataka,Mandya,Kharif,2018,3.0988
+R00489,Rice,Karnataka,Mandya,Kharif,2019,2.6857
+R00490,Rice,Karnataka,Mandya,Rabi,2010,2.6911
+R00491,Rice,Karnataka,Mandya,Rabi,2011,2.4034
+R00492,Rice,Karnataka,Mandya,Rabi,2012,2.4639
+R00493,Rice,Karnataka,Mandya,Rabi,2013,2.8074
+R00494,Rice,Karnataka,Mandya,Rabi,2014,2.3751
+R00495,Rice,Karnataka,Mandya,Rabi,2015,2.266
+R00496,Rice,Karnataka,Mandya,Rabi,2016,2.4142
+R00497,Rice,Karnataka,Mandya,Rabi,2017,2.6604
+R00498,Rice,Karnataka,Mandya,Rabi,2018,2.2061
+R00499,Rice,Karnataka,Mandya,Rabi,2019,2.7649
+R00500,Rice,Karnataka,Mysuru,Kharif,2010,2.3518
+R00501,Rice,Karnataka,Mysuru,Kharif,2011,2.7865
+R00502,Rice,Karnataka,Mysuru,Kharif,2012,1.9664
+R00503,Rice,Karnataka,Mysuru,Kharif,2013,2.3823
+R00504,Rice,Karnataka,Mysuru,Kharif,2014,2.1963
+R00505,Rice,Karnataka,Mysuru,Kharif,2015,2.4328
+R00506,Rice,Karnataka,Mysuru,Kharif,2016,2.7205
+R00507,Rice,Karnataka,Mysuru,Kharif,2017,2.648
+R00508,Rice,Karnataka,Mysuru,Kharif,2018,2.6602
+R00509,Rice,Karnataka,Mysuru,Kharif,2019,2.7129
+R00510,Rice,Karnataka,Mysuru,Rabi,2010,2.3499
+R00511,Rice,Karnataka,Mysuru,Rabi,2011,2.089
+R00512,Rice,Karnataka,Mysuru,Rabi,2012,2.5307
+R00513,Rice,Karnataka,Mysuru,Rabi,2013,2.5501
+R00514,Rice,Karnataka,Mysuru,Rabi,2014,2.5135
+R00515,Rice,Karnataka,Mysuru,Rabi,2015,2.5846
+R00516,Rice,Karnataka,Mysuru,Rabi,2016,2.5522
+R00517,Rice,Karnataka,Mysuru,Rabi,2017,2.9995
+R00518,Rice,Karnataka,Mysuru,Rabi,2018,2.5202
+R00519,Rice,Karnataka,Mysuru,Rabi,2019,2.4974
+R00520,Rice,Karnataka,Tumkur,Kharif,2010,2.4931
+R00521,Rice,Karnataka,Tumkur,Kharif,2011,2.4562
+R00522,Rice,Karnataka,Tumkur,Kharif,2012,2.4353
+R00523,Rice,Karnataka,Tumkur,Kharif,2013,2.5507
+R00524,Rice,Karnataka,Tumkur,Kharif,2014,2.777
+R00525,Rice,Karnataka,Tumkur,Kharif,2015,2.9042
+R00526,Rice,Karnataka,Tumkur,Kharif,2016,2.8663
+R00527,Rice,Karnataka,Tumkur,Kharif,2017,2.7002
+R00528,Rice,Karnataka,Tumkur,Kharif,2018,3.13
+R00529,Rice,Karnataka,Tumkur,Kharif,2019,3.1214
+R00530,Rice,Karnataka,Hassan,Kharif,2010,2.5375
+R00531,Rice,Karnataka,Hassan,Kharif,2011,2.4491
+R00532,Rice,Karnataka,Hassan,Kharif,2012,2.7674
+R00533,Rice,Karnataka,Hassan,Kharif,2013,2.7109
+R00534,Rice,Karnataka,Hassan,Kharif,2014,2.3483
+R00535,Rice,Karnataka,Hassan,Kharif,2015,2.7095
+R00536,Rice,Karnataka,Hassan,Kharif,2016,2.8187
+R00537,Rice,Karnataka,Hassan,Kharif,2017,2.5699
+R00538,Rice,Karnataka,Hassan,Kharif,2018,2.8614
+R00539,Rice,Karnataka,Hassan,Kharif,2019,2.4967
+R00540,Rice,Assam,Kamrup,Kharif,2010,1.5156
+R00541,Rice,Assam,Kamrup,Kharif,2011,1.8414
+R00542,Rice,Assam,Kamrup,Kharif,2012,2.0735
+R00543,Rice,Assam,Kamrup,Kharif,2013,1.9116
+R00544,Rice,Assam,Kamrup,Kharif,2014,2.3654
+R00545,Rice,Assam,Kamrup,Kharif,2015,2.6983
+R00546,Rice,Assam,Kamrup,Kharif,2016,1.9616
+R00547,Rice,Assam,Kamrup,Kharif,2017,2.068
+R00548,Rice,Assam,Kamrup,Kharif,2018,2.3505
+R00549,Rice,Assam,Kamrup,Kharif,2019,2.7056
+R00550,Rice,Assam,Kamrup,Rabi,2010,1.6206
+R00551,Rice,Assam,Kamrup,Rabi,2011,1.9987
+R00552,Rice,Assam,Kamrup,Rabi,2012,2.4011
+R00553,Rice,Assam,Kamrup,Rabi,2013,1.5925
+R00554,Rice,Assam,Kamrup,Rabi,2014,1.7065
+R00555,Rice,Assam,Kamrup,Rabi,2015,1.9373
+R00556,Rice,Assam,Kamrup,Rabi,2016,1.939
+R00557,Rice,Assam,Kamrup,Rabi,2017,2.284
+R00558,Rice,Assam,Kamrup,Rabi,2018,2.172
+R00559,Rice,Assam,Kamrup,Rabi,2019,1.713
+R00560,Rice,Assam,Nagaon,Kharif,2010,2.1982
+R00561,Rice,Assam,Nagaon,Kharif,2011,1.9609
+R00562,Rice,Assam,Nagaon,Kharif,2012,2.4304
+R00563,Rice,Assam,Nagaon,Kharif,2013,1.9989
+R00564,Rice,Assam,Nagaon,Kharif,2014,2.0218
+R00565,Rice,Assam,Nagaon,Kharif,2015,2.3294
+R00566,Rice,Assam,Nagaon,Kharif,2016,2.4077
+R00567,Rice,Assam,Nagaon,Kharif,2017,2.3571
+R00568,Rice,Assam,Nagaon,Kharif,2018,1.87
+R00569,Rice,Assam,Nagaon,Kharif,2019,2.4287
+R00570,Rice,Assam,Nagaon,Rabi,2010,1.6463
+R00571,Rice,Assam,Nagaon,Rabi,2011,1.976
+R00572,Rice,Assam,Nagaon,Rabi,2012,1.6029
+R00573,Rice,Assam,Nagaon,Rabi,2013,2.0767
+R00574,Rice,Assam,Nagaon,Rabi,2014,1.801
+R00575,Rice,Assam,Nagaon,Rabi,2015,1.7117
+R00576,Rice,Assam,Nagaon,Rabi,2016,2.2159
+R00577,Rice,Assam,Nagaon,Rabi,2017,2.1275
+R00578,Rice,Assam,Nagaon,Rabi,2018,1.9472
+R00579,Rice,Assam,Nagaon,Rabi,2019,2.4678
+R00580,Rice,Assam,Cachar,Kharif,2010,1.6387
+R00581,Rice,Assam,Cachar,Kharif,2011,1.7772
+R00582,Rice,Assam,Cachar,Kharif,2012,1.859
+R00583,Rice,Assam,Cachar,Kharif,2013,1.6707
+R00584,Rice,Assam,Cachar,Kharif,2014,1.9575
+R00585,Rice,Assam,Cachar,Kharif,2015,1.7414
+R00586,Rice,Assam,Cachar,Kharif,2016,1.7957
+R00587,Rice,Assam,Cachar,Kharif,2017,2.2465
+R00588,Rice,Assam,Cachar,Kharif,2018,1.6947
+R00589,Rice,Assam,Cachar,Kharif,2019,1.3904
+R00590,Rice,Assam,Sivasagar,Kharif,2010,2.2666
+R00591,Rice,Assam,Sivasagar,Kharif,2011,2.5168
+R00592,Rice,Assam,Sivasagar,Kharif,2012,1.8327
+R00593,Rice,Assam,Sivasagar,Kharif,2013,1.4901
+R00594,Rice,Assam,Sivasagar,Kharif,2014,1.9054
+R00595,Rice,Assam,Sivasagar,Kharif,2015,1.9363
+R00596,Rice,Assam,Sivasagar,Kharif,2016,1.9844
+R00597,Rice,Assam,Sivasagar,Kharif,2017,1.7877
+R00598,Rice,Assam,Sivasagar,Kharif,2018,2.2191
+R00599,Rice,Assam,Sivasagar,Kharif,2019,2.2308

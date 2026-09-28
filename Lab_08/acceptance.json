@@ -1,0 +1,11 @@
+{
+  "test_mae": 0.195,
+  "test_rmse": 0.2471,
+  "test_r2": 0.9057,
+  "selected_model": "ridge_trend",
+  "test_years": [
+    "2018",
+    "2019"
+  ],
+  "passed": true
+}
