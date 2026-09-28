@@ -1,0 +1,44 @@
+{
+  "feature_names": [
+    "recency_days",
+    "cust_txns",
+    "cust_items",
+    "cust_spend",
+    "cust_uniq",
+    "pref_cat_enc",
+    "item_txns",
+    "item_buyers",
+    "item_avg_price",
+    "item_recency_days",
+    "item_cat_enc",
+    "item_pop_rank",
+    "pair_purchases",
+    "pair_qty",
+    "pair_spend",
+    "pair_days_since",
+    "cat_match"
+  ],
+  "customer": [
+    "recency_days",
+    "cust_txns",
+    "cust_items",
+    "cust_spend",
+    "cust_uniq",
+    "pref_cat_enc"
+  ],
+  "item": [
+    "item_txns",
+    "item_buyers",
+    "item_avg_price",
+    "item_recency_days",
+    "item_cat_enc",
+    "item_pop_rank"
+  ],
+  "pair": [
+    "pair_purchases",
+    "pair_qty",
+    "pair_spend",
+    "pair_days_since",
+    "cat_match"
+  ]
+}

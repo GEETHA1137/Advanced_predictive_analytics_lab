@@ -1,0 +1,6 @@
+CustomerID,Segment,Hits_at_5,Past_Items,Future_Items,Top5_Recs,Actual_Future
+C15001,Heavy,2,5,5,Lighting Product 016; Party Supplies Product 039; Seasonal Product 022; Party Supplies Product 279; Lighting Product 032,Stationery Product 379; Lighting Product 016; Party Supplies Product 151; Lighting Product 008; Party Supplies Product 295
+C15002,Occasional,1,4,5,Home Decor Product 017; Seasonal Product 022; Lighting Product 016; Gifts Product 029; Bags & Accessories Product 0,Stationery Product 379; Stationery Product 035; Home Decor Product 249; Stationery Product 059; Home Decor Product 241
+C15004,Heavy,3,5,5,Gifts Product 029; Gifts Product 037; Kitchenware Product 026; Gifts Product 021; Bags & Accessories Product 0,Gifts Product 029; Gifts Product 005; Kitchenware Product 170; Gifts Product 013; Gifts Product 397
+C15006,Regular,1,5,2,Seasonal Product 022; Seasonal Product 014; Seasonal Product 030; Bags & Accessories Product 1; Kitchenware Product 026,Seasonal Product 022; Lighting Product 016
+C15008,Heavy,0,5,1,Home Decor Product 017; Kitchenware Product 026; Kitchenware Product 010; Stationery Product 035; Seasonal Product 022,Home Decor Product 201

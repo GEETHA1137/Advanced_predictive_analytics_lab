@@ -1,0 +1,52 @@
+{
+  "numeric": [
+    "Age",
+    "Work_Experience",
+    "Family_Size"
+  ],
+  "binary_categorical": [
+    "Gender",
+    "Ever_Married",
+    "Graduated"
+  ],
+  "ordinal_categorical": [
+    "Profession",
+    "Spending_Score",
+    "Var_1"
+  ],
+  "feature_groups": {
+    "Demographic": [
+      "Gender",
+      "Ever_Married",
+      "Age",
+      "Graduated",
+      "Profession"
+    ],
+    "Psychographic": [
+      "Spending_Score",
+      "Var_1"
+    ],
+    "Behavioral": [
+      "Work_Experience",
+      "Family_Size"
+    ],
+    "All Features": [
+      "Gender",
+      "Ever_Married",
+      "Age",
+      "Graduated",
+      "Profession",
+      "Work_Experience",
+      "Spending_Score",
+      "Family_Size",
+      "Var_1"
+    ]
+  },
+  "target": "Segmentation",
+  "classes": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
+}
